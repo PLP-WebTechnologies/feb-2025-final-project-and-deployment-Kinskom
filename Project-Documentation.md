@@ -4,7 +4,7 @@
 Abdihakim Blog is a responsive, user-friendly, and visually appealing blog website designed to showcase articles about nature, lifestyle, photography, and more. Built with HTML, CSS, and JavaScript, the site includes structured pages for the homepage, blog posts, and a contact form.
 
 Live Link
-
+https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Kinskom/
 
 📌 Project Overview
 This blog project aims to provide an engaging platform for publishing and browsing blog content. It includes a homepage with featured content, a dedicated posts page with article previews, and a contact page allowing users to send inquiries or messages.
